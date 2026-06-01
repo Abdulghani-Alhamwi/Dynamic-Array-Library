@@ -19,7 +19,6 @@ A **type-safe**, heap-allocated dynamic array container built from scratch in C+
 | 🧹 | Clear | Reset the array to zero elements |
 | 📋 | Print | Dump all elements to stdout |
 ---
-
 ## 🚀 Getting Started :
 
 This is a **header-only** library. Just drop the file into your project and include it.
