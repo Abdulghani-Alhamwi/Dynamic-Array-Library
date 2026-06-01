@@ -13,12 +13,13 @@ A **type-safe**, heap-allocated dynamic array container built from scratch in C+
 | 🔁 | Dynamic Resizing | Grow or shrink the array at runtime |
 | 🔃 | In-place Reversal | Reverse all elements without a second container |
 | 🎯 | Index-based Access | Get and set any element by index |
-|   ✚ | Flexible Insertion | Insert at start, end, before or after any index |
-|    − | Targeted Deletion | Delete by index, by value, first, or last |
+| + | Flexible Insertion | Insert at start, end, before or after any index |
+| - | Targeted Deletion | Delete by index, by value, first, or last |
 | 🔍 | Linear Search | Find the index of any value |
 | 🧹 | Clear | Reset the array to zero elements |
 | 📋 | Print | Dump all elements to stdout |
 ---
+
 ## 🚀 Getting Started :
 
 This is a **header-only** library. Just drop the file into your project and include it.
