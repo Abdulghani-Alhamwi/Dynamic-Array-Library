@@ -14,7 +14,7 @@ A **type-safe**, heap-allocated dynamic array container built from scratch in C+
 | 🔃 | In-place Reversal | Reverse all elements without a second container |
 | 🎯 | Index-based Access | Get and set any element by index |
 | 📥 | Flexible Insertion | Insert at start, end, before or after any index |
-| 🧹 | Targeted Deletion | Delete by index, by value, first, or last |
+| 🗑️ | Targeted Deletion | Delete by index, by value, first, or last |
 | 🔍 | Linear Search | Find the index of any value |
 | 🧹 | Clear | Reset the array to zero elements |
 | 📋 | Print | Dump all elements to stdout |
@@ -46,7 +46,7 @@ arr.SetItem(4, 50);
 arr.PrintList(); // 10 20 30 40 50
 ```
 
-### ✚ Insert Elements :
+### 📥 Insert Elements :
 
 ```cpp
 arr.InsertAtBeginning(0);   // Insert 0 at index 0
@@ -56,7 +56,7 @@ arr.InsertAfter(2, 77);      // Insert 77 after index 2
 arr.InsertBefore(1, 55);     // Insert 55 before index 1
 ```
 
-### − Delete Elements :
+### 🗑️ Delete Elements :
 
 ```cpp
 arr.DeleteFirstItem();       // Remove first element
