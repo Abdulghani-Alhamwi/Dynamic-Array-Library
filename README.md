@@ -3,7 +3,7 @@
 A **type-safe**, heap-allocated dynamic array container built from scratch in C++ using class templates — no STL, no shortcuts.
 
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
-![Template](https://img.shields.io/badge/Project-Template-orange)
+![Template](https://img.shields.io/badge/Template-orange)
 ---
 
 ## ✨ Features :
@@ -13,8 +13,8 @@ A **type-safe**, heap-allocated dynamic array container built from scratch in C+
 | 🔁 | **Dynamic Resizing** | Grow or shrink the array at runtime |
 | 🔃 | **In-place Reversal** | Reverse all elements without a second container |
 | 🎯 | **Index-based Access** | Get and set any element by index |
-| ✚ | **Flexible Insertion** | Insert at start, end, before/after any index |
-| − | **Targeted Deletion** | Delete by index, by value, first, or last |
+|  ✚ | **Flexible Insertion** | Insert at start, end, before/after any index |
+|  − | **Targeted Deletion** | Delete by index, by value, first, or last |
 | 🔍 | **Linear Search** | Find the index of any value |
 | 🧹 | **Clear** | Reset the array to zero elements |
 | 📋 | **Print** | Dump all elements to stdout |
